@@ -1,19 +1,19 @@
 const students = [
     {
         id: 1,
-        name: "Ayush Kumar Jha",
-        age: 19,
+        name: "Aditya Sharma",
+        age: 18,
         course: "B.Tech CSE"
     },
     {
         id: 2,
-        name: "Ryan Singh Gosain",
+        name: "Deepesh Yadav",
         age: 20,
         course: "B.Tech IT"
     },
     {
         id: 3,
-        name: "Rishabh Singh Rajput ",
+        name: "Ashish Singh ",
         age: 20,
         course: "B.Tech CSE"
     }
